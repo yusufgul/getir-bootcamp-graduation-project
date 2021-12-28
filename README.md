@@ -24,7 +24,8 @@ npm test
 ## API Documentation
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-You can access detailed documentation from [here.](https://ygul-getir-backend.herokuapp.com/#/Actions/post_)
+You can access detailed documentation from here.
+https://ygul-getir-backend.herokuapp.com/#/Actions/post_
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
