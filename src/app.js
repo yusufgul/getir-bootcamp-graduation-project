@@ -37,8 +37,8 @@ con.on("open", function () {
   console.log("connected...");
 });
 
-//main route
-app.use("/", swaggerUI.serve, swaggerUI.setup(specs), getirRouter);
+app.use("/", getirRouter);
+app.use("/", swaggerUI.serve, swaggerUI.setup(specs));
 
 //Error handler for unhandled routes
 app.all("*", (req, res, next) => {
