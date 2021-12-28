@@ -1,6 +1,6 @@
 # Getir Nodejs Bootcamp Graduation Project
 
-Graduating project of Getir Node.js Bootcamp. Used technologies are NodeJS, Express, MongoDB, Swagger and Jest.
+Graduating project of Getir Node.js Bootcamp. Used technologies are NodeJS, Express, MongoDB, Swagger and Jest. <br />
 https://ygul-getir-backend.herokuapp.com/#/Actions/post
 
 ## Installation
