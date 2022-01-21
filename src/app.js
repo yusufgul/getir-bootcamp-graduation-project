@@ -38,7 +38,7 @@ con.on("open", function () {
 });
 
 app.use("/", getirRouter);
-app.use("/api-docs", swaggerUI.serve, swaggerUI.setup(specs));
+app.use("/", swaggerUI.serve, swaggerUI.setup(specs));
 
 //Error handler for unhandled routes
 app.all("*", (req, res, next) => {
